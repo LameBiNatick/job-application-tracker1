@@ -78,13 +78,10 @@ npm run client
 - `PUT /api/jobs/:id` - Update job information
 - `DELETE /api/jobs/:id` - Delete a job entry
 
-## License
-
-This project is licensed under the MIT License
 
 ## Author
 
-Sukanta Chowdhury
+Naitik Gaur
 
 ## Contributing
 
