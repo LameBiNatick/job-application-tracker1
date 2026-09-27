@@ -31,7 +31,7 @@ A full-stack MERN (MongoDB, Express, React, Node.js) application designed for st
 
 1. Clone the repository
 ```bash
-git clone https://github.com/sukanta-chowdhury/Student-Job-Tracker.git
+git clone https://github.com/LameBiNatick/job-application-tracker1
 cd Student-Job-Tracker
 ```
 
